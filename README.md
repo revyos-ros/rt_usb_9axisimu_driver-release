@@ -1,3 +1,26 @@
+## rt_usb_9axisimu_driver (jazzy) - 3.0.0-1
+
+The packages in the `rt_usb_9axisimu_driver` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy rt_usb_9axisimu_driver --override-release-repository-push-url git@github.com:revyos-ros/rt_usb_9axisimu_driver-release.git` on `Thu, 19 Dec 2024 06:27:29 -0000`
+
+The `rt_usb_9axisimu_driver` package was released.
+
+Version of package(s) in repository `rt_usb_9axisimu_driver`:
+
+- upstream repository: https://github.com/rt-net/rt_usb_9axisimu_driver.git
+- release repository: https://github.com/revyos-ros/rt_usb_9axisimu_driver-release.git
+- rosdistro version: `3.0.0-1`
+- old version: `null`
+- new version: `3.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rt_usb_9axisimu_driver (humble) - 2.1.0-2
 
 The packages in the `rt_usb_9axisimu_driver` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble rt_usb_9axisimu_driver --override-release-repository-push-url git@github.com:revyos-ros/rt_usb_9axisimu_driver-release.git` on `Mon, 23 Sep 2024 05:23:29 -0000`
